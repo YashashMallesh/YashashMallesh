@@ -7,7 +7,7 @@
 - ⚡ Turning coffee into code since 2024
 - 💻 I'm Scaling high by seeking help from freecodecamp.org , Scrimba, W3 schools to learn some languages like HTML, CSS, etc.,
 https://github.com/YashashMallesh/YashashMallesh/blob/main/Screenshot%202025-04-05%20082417.jpg
-<!---
-YashashMallesh/YashashMallesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Skills
+<p align="left">
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" / >
+</p>
