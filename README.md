@@ -1,7 +1,7 @@
 - 👋 Hey, I’m YashashMallesh
 - 🔥 Building the future,one line of code at a time
 - 🌱 I’m currently pursuing my BE
-- 🖳 Cloud computing | Dev
+- 🖳  Interested in Cloud Computing 
 - 🖊️ Python | C | Java | CSS | HTML | MERN
 - 📫 Reach me:yashumallesh2022@gmail.com
 - ⚡ Turning coffee into code since 2024
