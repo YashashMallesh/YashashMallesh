@@ -5,4 +5,4 @@
 - 🖊️ Python | C | Java | CSS | HTML | MERN
 - 📫 Reach me:yashumallesh2022@gmail.com
 - ⚡ Turning coffee into code since 2024
-
+- 🔑 1% Daily
