@@ -1,8 +1,9 @@
-- 👋 Hey, I’m YashashMallesh
+- 👋 Hey, I’m Yashash
 - 🔥 Building the future,one line of code at a time
 - 🌱 I’m currently pursuing my BE
 - 🖳  Interested in Cloud Computing 
-- 🖊️ Python | C | Java | CSS | HTML
+- 🖊️ Python | C | Go | HTML+CSS | JS
+- 🏗  Django | Flutter
 - 📫 Reach me:yashumallesh2022@gmail.com
 - ⚡ Turning coffee into code since 2024
 - 🔑 1% Daily
